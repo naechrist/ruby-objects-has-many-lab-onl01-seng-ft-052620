@@ -26,8 +26,6 @@ class Author
     Post.all.size
   end
   
-  def author_name(author)
-    author = self.name
-  end
+
 end
 
