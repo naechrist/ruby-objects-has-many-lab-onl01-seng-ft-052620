@@ -27,7 +27,7 @@ class Author
   end
   
   def author_name 
-    author_name = self.name
+    author_name = self
   end
 end
 
