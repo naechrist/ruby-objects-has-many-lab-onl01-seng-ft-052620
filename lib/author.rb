@@ -26,5 +26,8 @@ class Author
     Post.all.size
   end
   
+  def author_name 
+    
+  end
 end
 
